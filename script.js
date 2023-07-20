@@ -23,7 +23,7 @@ console.assert(1===2 , "That is Wrong"); // it is fired only when condition is f
 const p = document.querySelector('p');
 console.assert(p.classList.contains('oops'), "It is wrong"); //if it is true nothing happens
     // clearing
-console.clear();
+//console.clear();
     // Viewing DOM Elements
 console.dir(p);
     // Grouping together
